@@ -43,6 +43,6 @@ The prompt template defines the structure of the conversation between the user a
 
 - **LangChain Core**: Provides the foundational components for working with LangChain's language processing capabilities.
 - **LangChain Community**: Offers additional functionalities and integrations for specific use cases.
-- **OLLAMA **: A language model adapter used to interface with LangChain's language models.
+- **OLLAMA**: A language model adapter used to interface with LangChain's language models.
 
 
