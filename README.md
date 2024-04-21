@@ -11,7 +11,7 @@ This application serves as a demonstration of how to integrate LangChain's langu
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone <repository_url>
+    git clone [<repository_url>](https://github.com/Varshan2003/LangChain_testBOT.git)
     ```
 
 2. Install the required dependencies:
